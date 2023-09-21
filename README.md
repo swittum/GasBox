@@ -1,0 +1,2 @@
+# ParticleGas Repository
+This repository contains a C++ implementation of a box filled with balls and no external gravitational field. The particles are scattered by each other and the walls. The .cpp file contains the simulation backend, storing the data of the simulation in a .h5 file. The .py file reads the .h5 data and creates a .mp4 file to visualize the time evolution of the particles. To run the code, open a terminal, navigate to the directory and run "make run".
