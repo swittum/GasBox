@@ -1,0 +1,11 @@
+# Settings
+.vscode/
+
+# Compiled files
+gas
+
+# .h5 files
+*.h5
+
+# Old animations
+ani.mp4
